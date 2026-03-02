@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://budakhuseyin.github.io/sitemap.xml

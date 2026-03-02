@@ -1,0 +1,16 @@
+{
+  "name": "Hüseyin Budak | Yazılım Mühendisliği Öğrencisi & Siber Güvenlik",
+  "short_name": "Hüseyin Budak",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "description": "Yazılım mühendisliği öğrencisi, siber güvenlik meraklısı ve web developer.",
+  "icons": [
+    {
+      "src": "huseyin_budak.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
