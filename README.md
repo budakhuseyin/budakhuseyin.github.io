@@ -1,12 +1,12 @@
 # Hüseyin Budak
 
-> **Yazılım Mühendisliği Öğrencisi & Siber Güvenlik Tutkunu** 💻🛡️
+> Yazılım Mühendisliği Öğrencisi & Siber Güvenlik Tutkunu
 >
-> 📍 İstanbul, Türkiye | 🎓 Aksaray Üniversitesi
+> İstanbul, Türkiye | Aksaray Üniversitesi
 
 ---
 
-## 👨‍💻 Hakkımda
+## Hakkımda
 
 Merhaba, ben **Hüseyin**. Aksaray Üniversitesi Yazılım Mühendisliği son sınıf öğrencisiyim.
 
@@ -20,26 +20,26 @@ Sorumluluk almaktan kaçınmayan, meraklı ve çözüm odaklı biriyim. Karşıl
 
 ---
 
-## 🛠️ Teknolojiler & Yetenekler
+## Teknolojiler & Yetenekler
 
-### 🛡️ Siber Güvenlik
+### Siber Güvenlik
 - Ethical Hacking
 - Network Security
 - Zafiyet Analizi
 - Kali Linux
 
-### 🌐 Web Development
+### Web Development
 - Full-Stack Development
 - HTML5 & CSS3
 - JavaScript & Node.js
 
-### 💻 Programlama Dilleri
+### Programlama Dilleri
 - Python
 - JavaScript
 - C#
 - C
 
-### 🗄️ Database & Araçlar
+### Database & Araçlar
 - SQL
 - Git/GitHub
 - Linux
@@ -47,7 +47,7 @@ Sorumluluk almaktan kaçınmayan, meraklı ve çözüm odaklı biriyim. Karşıl
 
 ---
 
-## 🛤️ Yolculuğum & Deneyimlerim
+## Yolculuğum & Deneyimlerim
 
 - **Aksaray Üniversitesi** (Eylül 2022 - Devam Ediyor)<br>
   *Yazılım Mühendisliği Öğrencisi*
@@ -58,14 +58,10 @@ Sorumluluk almaktan kaçınmayan, meraklı ve çözüm odaklı biriyim. Karşıl
 
 ---
 
-## 🔗 Bağlantılar
+## Bağlantılar
 
-- 📝 **Blog:** [blog.huseyinbudak.com.tr](https://blog.huseyinbudak.com.tr)
-- 💼 **LinkedIn:** [Hüseyin Budak](https://www.linkedin.com/in/huseyin-budak-286094252/)
-- 🐙 **GitHub:** [@budakhuseyin](https://github.com/budakhuseyin)
-- 📸 **Instagram:** [@huseyinbudak_](https://www.instagram.com/huseyinbudak_/)
-- 📧 **E-posta:** [huseyinbudak904@gmail.com](mailto:huseyinbudak904@gmail.com)
-
----
-
-<p align="center">Crafted with ❤️ and &lt;/&gt; in Istanbul</p>
+- **Blog:** [blog.huseyinbudak.com.tr](https://blog.huseyinbudak.com.tr)
+- **LinkedIn:** [Hüseyin Budak](https://www.linkedin.com/in/huseyin-budak-286094252/)
+- **GitHub:** [@budakhuseyin](https://github.com/budakhuseyin)
+- **Instagram:** [@huseyinbudak_](https://www.instagram.com/huseyinbudak_/)
+- **E-posta:** [huseyinbudak904@gmail.com](mailto:huseyinbudak904@gmail.com)
