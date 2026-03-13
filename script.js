@@ -299,8 +299,14 @@ linkItems.forEach(link => {
 // Typing Effect
 // ===========================
 const typingElement = document.querySelector('.typing-effect');
-if (typingElement) {
-    const text = typingElement.textContent;
+let typingTimeout;
+
+window.startTypingEffect = function(text, speed = 80) {
+    if (!typingElement) return;
+    
+    // Clear any existing timeout to avoid overlapping
+    clearTimeout(typingTimeout);
+    
     typingElement.textContent = '';
     let i = 0;
 
@@ -308,11 +314,16 @@ if (typingElement) {
         if (i < text.length) {
             typingElement.textContent += text.charAt(i);
             i++;
-            setTimeout(typeWriter, 80);
+            typingTimeout = setTimeout(typeWriter, speed);
         }
     }
 
-    setTimeout(typeWriter, 800);
+    typeWriter();
+};
+
+if (typingElement) {
+    // Initial call using the hardcoded text or data-i18n value
+    window.startTypingEffect(typingElement.getAttribute('data-i18n') ? '' : typingElement.textContent, 800);
 }
 
 // ===========================
