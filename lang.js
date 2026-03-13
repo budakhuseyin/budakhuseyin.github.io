@@ -18,7 +18,8 @@ document.addEventListener('DOMContentLoaded', () => {
             const key = el.getAttribute('data-i18n');
             if (translations[lang] && translations[lang][key]) {
                 if (el.classList.contains('typing-effect') && typeof window.startTypingEffect === 'function') {
-                    window.startTypingEffect(translations[lang][key], isInitial ? 800 : 50);
+                    // Start typing with a reasonable speed (e.g. 50ms) regardless of isInitial
+                    window.startTypingEffect(translations[lang][key], 50);
                 } else {
                     el.innerHTML = translations[lang][key];
                 }
