@@ -170,21 +170,11 @@ body {
 }
 
 /* ===========================
-<<<<<<< HEAD
-   Dark Mode Toggle - ENHANCED
-   =========================== */
-.dark-mode-toggle {
-    position: fixed !important;
-    top: var(--spacing-md);
-    right: var(--spacing-md) !important;
-    left: auto !important;
-=======
    Dark Mode & Lang Toggles - ENHANCED
    =========================== */
 .dark-mode-toggle, .lang-toggle {
     position: fixed !important;
     top: var(--spacing-md);
->>>>>>> master
     width: 60px;
     height: 60px;
     border-radius: 50%;
@@ -204,8 +194,6 @@ body {
     animation: pulse-ring 3s ease-in-out infinite;
 }
 
-<<<<<<< HEAD
-=======
 .dark-mode-toggle {
     right: calc(var(--spacing-md) + 90px) !important;
     left: auto !important;
@@ -221,7 +209,6 @@ body {
     gap: 6px;
 }
 
->>>>>>> master
 @keyframes pulse-ring {
 
     0%,
@@ -234,11 +221,7 @@ body {
     }
 }
 
-<<<<<<< HEAD
-.dark-mode-toggle::before {
-=======
 .dark-mode-toggle::before, .lang-toggle::before {
->>>>>>> master
     content: '';
     position: absolute;
     top: -50%;
@@ -253,11 +236,7 @@ body {
     opacity: 0;
 }
 
-<<<<<<< HEAD
-.dark-mode-toggle:hover::before {
-=======
 .dark-mode-toggle:hover::before, .lang-toggle:hover::before {
->>>>>>> master
     opacity: 1;
 }
 
@@ -267,9 +246,6 @@ body {
     border-color: rgba(102, 126, 234, 0.5);
 }
 
-<<<<<<< HEAD
-.dark-mode-toggle:active {
-=======
 .lang-toggle:hover {
     transform: scale(1.1);
     box-shadow: var(--shadow-glow), 0 0 0 0 rgba(102, 126, 234, 0);
@@ -277,7 +253,6 @@ body {
 }
 
 .dark-mode-toggle:active, .lang-toggle:active {
->>>>>>> master
     transform: scale(0.95);
 }
 
@@ -1404,12 +1379,6 @@ body {
     }
 
     .dark-mode-toggle {
-<<<<<<< HEAD
-        width: 52px;
-        height: 52px;
-        top: var(--spacing-sm);
-        right: var(--spacing-sm);
-=======
         width: 50px;
         height: 50px;
         top: var(--spacing-sm);
@@ -1426,7 +1395,6 @@ body {
         border-radius: 25px;
         padding: 0 10px;
         gap: 4px;
->>>>>>> master
     }
 
     .hero-tags {
